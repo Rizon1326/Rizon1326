@@ -1,6 +1,6 @@
 # Hi there! I'm Rizon 👋
 
-<img src="https://github.com/user-attachments/assets/d7fa346f-a5f7-45e9-b545-3aaf3a1049c6" alt="logoR" width="150" height="150" />
+<img src="https://github.com/user-attachments/assets/d7fa346f-a5f7-45e9-b545-3aaf3a1049c6" alt="logoR" width="450" height="450" />
 
 ## 🌈 About Me
 
