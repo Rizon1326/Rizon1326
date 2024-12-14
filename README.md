@@ -132,7 +132,7 @@
 ### 📡 Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizon)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rizon1326)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://rizon.dev](https://vercel.com/mehedi-hasan-rizons-projects/rizu-s-portfolio-qf6h)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vercel.com/mehedi-hasan-rizons-projects/rizu-s-portfolio-qf6h)
 
 ### 💖 Support
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rizon1326)
