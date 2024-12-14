@@ -1,7 +1,6 @@
 # Hi there! I'm Rizon 👋
 
-![Profile Banner](https://api.daily.dev/dearly.svg?r=Rizon1326)
-
+![logoR](https://github.com/user-attachments/assets/d7fa346f-a5f7-45e9-b545-3aaf3a1049c6)
 ## 🌈 About Me
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/[DYNAMIC_ILLUSTRATION_URL]" alt="Coding Illustration"/>
