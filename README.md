@@ -90,11 +90,11 @@
       <p>Docker</p>
     </td>
     <td>
-      <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="Cloudinary" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/cloudinary.svg" alt="Cloudinary" width="50" height="50"/>
       <p>Cloudinary</p>
     </td>
     <td>
-      <img src="https://www.vectorlogo.zone/logos/getminio/getminio-icon.svg" alt="Minio" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/minio.svg" alt="Minio" width="50" height="50"/>
       <p>Minio</p>
     </td>
   </tr>
