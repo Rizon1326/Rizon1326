@@ -4,7 +4,7 @@
 
 ## 🌈 About Me
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a558d2c1aaef9fbcd283e851a80e07b4b79a5b7a68a36e3175ac714/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56675844417a7636504a616c6c4b4463642f67697068792e676966" alt="Coding Illustration"/>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Professional Coder Illustration"/>
 
 ### 💫 Professional Overview
 - 🔭 Currently working on [Personal Projects]
@@ -132,7 +132,8 @@
 ### 📡 Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khandakar-mehedi-hasan-aa9688323)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mehedi.hasan.rizon.2024)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vercel.com/mehedi-hasan-rizons-projects/rizu-s-portfolio-qf6h)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bsse1326@iit.du.ac.bd)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vercel.com/mehedi-hasan-rizons-projects/rizu-s-portfolio-qf6h)
 
 ### 💖 Support
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rizon1326)
