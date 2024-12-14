@@ -4,8 +4,7 @@
 
 ## 🌈 About Me
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/0e30a knowingly9f73c021e1a53af2d4901d36b25dc7fea2caaf24d1b8a5d8a20c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f646e4a474c7a6a32574f6466784b6e576d2f67697068792e676966" alt="Coding Illustration"/>
-
+<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a558d2c1aaef9fbcd283e851a80e07b4b79a5b7a68a36e3175ac714/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56675844417a7636504a616c6c4b4463642f67697068792e676966" alt="Coding Illustration"/>
 ### 💫 Professional Overview
 - 🔭 Currently working on [Personal Projects]
 - 🌱 Learning Advanced Web Technologies
