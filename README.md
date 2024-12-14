@@ -1,6 +1,7 @@
 # Hi there! I'm Rizon 👋
 
-![logoR](https://github.com/user-attachments/assets/d7fa346f-a5f7-45e9-b545-3aaf3a1049c6)
+<img src="https://github.com/user-attachments/assets/d7fa346f-a5f7-45e9-b545-3aaf3a1049c6" alt="logoR" width="150" height="150" />
+
 ## 🌈 About Me
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/[DYNAMIC_ILLUSTRATION_URL]" alt="Coding Illustration"/>
