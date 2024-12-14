@@ -94,7 +94,7 @@
       <p>Cloudinary</p>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/minio.svg" alt="Minio" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/digital-ocean.svg" alt="Minio" width="50" height="50"/>
       <p>Minio</p>
     </td>
   </tr>
