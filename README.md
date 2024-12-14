@@ -128,7 +128,7 @@
 | 🏆 Repo | ⭐ Stars | 🍴 Forks | 📝 Description |
 |---------|----------|----------|----------------|
 | [Project1](https://github.com/Rizon1326/E-Waste) | ![Stars](https://img.shields.io/github/stars/Rizon1326/E-Waste) | ![Forks](https://img.shields.io/github/forks/Rizon1326/E-Waste) | My First ML project |
-| [Project2](link) | ![Stars](https://img.shields.io/github/stars/Rizon1326/Project2) | ![Forks](https://img.shields.io/github/forks/Rizon1326/Project2) | Your project description |
+| [Project2](https://github.com/Rizon1326/TripMinds) | ![Stars](https://img.shields.io/github/stars/Rizon1326/TripMinds) | ![Forks](https://img.shields.io/github/forks/Rizon1326/TripMinds) | BUET AI and API hackathon project|
 
 ## 🌐 Connect & Support
 
