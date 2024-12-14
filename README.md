@@ -127,7 +127,7 @@
 #### Top Repositories
 | 🏆 Repo | ⭐ Stars | 🍴 Forks | 📝 Description |
 |---------|----------|----------|----------------|
-| [Project1](https://vercel.com/mehedi-hasan-rizons-projects/rizu-s-portfolio-qf6h) | ![Stars](https://img.shields.io/github/stars/Rizon1326/Project1) | ![Forks](https://img.shields.io/github/forks/Rizon1326/Project1) | Your project description |
+| [Project1](https://github.com/Rizon1326/E-Waste) | ![Stars](https://github.com/Rizon1326/E-Waste/stargazers) | ![Forks](https://github.com/Rizon1326/E-Waste/forks) | Your project description |
 | [Project2](link) | ![Stars](https://img.shields.io/github/stars/Rizon1326/Project2) | ![Forks](https://img.shields.io/github/forks/Rizon1326/Project2) | Your project description |
 
 ## 🌐 Connect & Support
