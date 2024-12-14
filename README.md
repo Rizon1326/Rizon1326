@@ -1,5 +1,3 @@
-Sure, here's the updated code with the skills organized into the suggested categories and icons:
-
 # Hi there! I'm Rizon 👋
 
 ![Profile Banner](https://api.daily.dev/dearly.svg?r=Rizon1326)
@@ -101,6 +99,7 @@ Sure, here's the updated code with the skills organized into the suggested categ
     </td>
   </tr>
 </table>
+
 ## 📊 GitHub Metrics
 
 ### 🔥 Contribution Streak
