@@ -5,6 +5,7 @@
 ## 🌈 About Me
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a558d2c1aaef9fbcd283e851a80e07b4b79a5b7a68a36e3175ac714/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56675844417a7636504a616c6c4b4463642f67697068792e676966" alt="Coding Illustration"/>
+
 ### 💫 Professional Overview
 - 🔭 Currently working on [Personal Projects]
 - 🌱 Learning Advanced Web Technologies
