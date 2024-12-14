@@ -92,11 +92,11 @@ Sure, here's the updated code with the skills organized into the suggested categ
       <p>Docker</p>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudinary/cloudinary-original.svg" alt="Cloudinary" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="Cloudinary" width="50" height="50"/>
       <p>Cloudinary</p>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minio/minio-original.svg" alt="Minio" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/getminio/getminio-icon.svg" alt="Minio" width="50" height="50"/>
       <p>Minio</p>
     </td>
   </tr>
