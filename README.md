@@ -4,7 +4,7 @@
 
 ## 🌈 About Me
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/[DYNAMIC_ILLUSTRATION_URL]" alt="Coding Illustration"/>
+<img align="right" width="400" src="https://undraw.co/api/illustrations?color=gradient&illustration=coding" alt="Professional Coder Illustration"/>
 
 ### 💫 Professional Overview
 - 🔭 Currently working on [Personal Projects]
