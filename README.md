@@ -7,10 +7,13 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Professional Coder Illustration"/>
 
 ### 💫 Professional Overview
-- 🔭 Currently working on [Personal Projects]
-- 🌱 Learning Advanced Web Technologies
-- 💡 Passionate about Full Stack Development
-- 🏆 Open Source Contributor
+
+- 👨‍💻 Passionate professional coder, full-stack developer, and UI designer  
+- 🤖 Exploring innovative technologies in artificial intelligence  
+- 🌟 Enjoy building intuitive and efficient solutions  
+- 🎨 Focused on creating seamless user experiences  
+- 🔬 Growing interest in AI research  
+
 
 🚀 Tech Arsenal
 <table>
