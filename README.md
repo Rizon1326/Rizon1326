@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/d7fa346f-a5f7-45e9-b545-3aaf3a1049c6" alt="logoR" width="450" height="450" />
 
-## 🌈 About Me
+## About Me
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Professional Coder Illustration"/>
 
